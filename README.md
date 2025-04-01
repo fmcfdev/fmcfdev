@@ -1,6 +1,6 @@
 # Fabrício Camargo | Programador Full Stack
 
-## 💼 Um pouco sobre mim
+## 💼 Sobre mim
 
 Por volta de 2014, comecei minha trajetória no mundo da programação, inicialmente com C++, ainda na graduação, e depois o Delphi. 
 
